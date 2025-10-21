@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ElijahKM9
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Cybersecurity(Blue team)
 - 🌱 I’m currently learning Python/C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me linkedin (https://www.linkedin.com/in/elijah-mccalla-8705ba26b/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
