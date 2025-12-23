@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ElijahKM9
-- 👀 I’m interested in Cybersecurity(Blue team)
+- 👋 Hi, I’m Elijah McCalla
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Python/C++/java/bash
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedin (https://www.linkedin.com/in/elijah-mccalla-8705ba26b/)
+
+- 📫 How to reach me Elijahk.Mccalla@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
